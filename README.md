@@ -2,6 +2,8 @@
 
 Code that combines a smoke particle system in [P5.js](https://p5js.org/) with a Posenet implementation using [ML5.js](https://ml5js.org/).
 
+![](openpose.gif)
+
 ## Keypoint IDs
 
 | Id | Part |
