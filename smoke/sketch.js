@@ -5,7 +5,7 @@ var particle_texture = null;
 var ps = null;
 
 function preload() {
-    particle_texture = loadImage("assets/texture.png");
+    particle_texture = loadImage("../assets/texture.png");
 }
 
 function setup() {
