@@ -1,6 +1,6 @@
 # ML5 Workshop
 
-Code that combines a smoke particle system in [P5.js](https://p5js.org/) with a Openpose implementation using [ML5.js](https://ml5js.org/). The openpose example comes straight from the ML5 examples and the [smoke particle system](https://p5js.org/examples/simulate-smokeparticles.html) was written by Dan Shiffman (I think).
+Code that combines a smoke particle system in [P5.js](https://p5js.org/) with an Openpose implementation using [ML5.js](https://ml5js.org/). The openpose example comes straight from the ML5 examples and the [smoke particle system](https://p5js.org/examples/simulate-smokeparticles.html) was written by Dan Shiffman (I think).
 
 ![](openpose.gif)
 
